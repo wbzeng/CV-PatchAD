@@ -10,7 +10,7 @@ Set up a virtual environment using PyCharm or Conda.
 Download the GitHub code and install the libraries required for our project.
 ```bash
 git clone http://github.com/wbzeng/CV-PatchAD.git
-cd PatchAD
+cd CV-PatchAD
 pip install -r requirements.txt  
 ```
 
