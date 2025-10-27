@@ -9,8 +9,8 @@ We have added PatchVino to the anomalib library under the directory src/anomalib
 Set up a virtual environment using PyCharm or Conda. 
 Download the GitHub code and install the libraries required for our project.
 ```bash
-git clone http://github.com/wbzeng/patchvino-inspection.git
-cd patchvino-inspection
+git clone http://github.com/wbzeng/CV-PatchAD.git
+cd PatchAD
 pip install -r requirements.txt  
 ```
 
