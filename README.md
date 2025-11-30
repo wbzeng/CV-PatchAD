@@ -1,9 +1,9 @@
-# patchvino-inspection
+# CV-PatchAD
 
 ## Introduction
 Anomalib provides a benchmarking tool to evaluate the performance of the anomaly detection models on a given dataset. 
 Our custom anomalib library is located at src/anomalib.
-We have added PatchVino to the anomalib library under the directory src/anomalib/models/image/patchvino.
+We have added CV-PatchAD to the anomalib library under the directory src/anomalib/models/image/patchvino.
 
 ## Installation
 Set up a virtual environment using PyCharm or Conda. 
